@@ -1,0 +1,6 @@
+# name  = input("Enter your name : ")
+# age = input("Enter your age : ")
+#name, age = input("Enter your name and age(seperated by space)").split()
+name, age = input("Enter your name and age(seperated by space: )").split(",")
+print(name)
+print(age)

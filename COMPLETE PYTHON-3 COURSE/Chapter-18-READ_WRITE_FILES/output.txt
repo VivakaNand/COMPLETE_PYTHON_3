@@ -1,0 +1,4 @@
+Vivek's salary is 100
+Rajesh's salary is 70
+Aneel's salary is 30
+Madan's salary is 50
